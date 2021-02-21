@@ -1,4 +1,4 @@
-#include <fun_mul.h>
+#include "fun_mul.h"
 
 int Mul(const int a, const int b)
 {
